@@ -1,0 +1,24 @@
+{
+  "name": "Koa-blog",
+  "version": "1.0.0",
+  "description": "基于koa2的博客管理系统\r ### 😂",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fascinating-W/Koa-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fascinating-W/Koa-blog/issues"
+  },
+  "homepage": "https://github.com/Fascinating-W/Koa-blog#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
